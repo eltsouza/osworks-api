@@ -1,5 +1,5 @@
 # osworks-api
-Projeto didático Implementando uma REST API com Spring - AlgaWorks
+Projeto didático Implementando uma REST API com Spring - Curso Algaworks
 
 O objetivo do projeto foi implementar um crude de uma API cadastrar clientes e gerar ordens de Serviço.
 
