@@ -5,11 +5,11 @@ O objetivo do projeto foi implementar um crude de uma API cadastrar clientes e g
 
 Tencologias utilizadas.
 
-Spring Frameworks 
-Java
-Mavem Gerenciador de Build
-Postman
-JSON
-MYSQL
-JPA (Persistencia de dados)
-Flyway(Criar a estrutura do banco de dados)
+- Spring Frameworks 
+- Java
+- Mavem (gerenciador de Build)
+- Postman
+- JSON
+- MYSQL
+- JPA (Persistencia de dados)
+- Flyway(Criar a estrutura do banco de dados)
